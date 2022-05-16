@@ -1,5 +1,5 @@
 # Warehouse Digital Twin Simulation with Single Agent
-Loading and Deploying packages simulation with single agent
+Loading and Deploying packages simulation with single Digital Twin Robot agent
 
 ## Author
 Honggeun Ji [@HONGGEUN](https://www.linkedin.com/in/honggeunji/)
